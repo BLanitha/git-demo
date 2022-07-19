@@ -1,3 +1,5 @@
 this is a sample text file
 
 new changes are awesome
+
+this is a very new change
